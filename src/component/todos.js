@@ -32,7 +32,7 @@ const Todos = ({ todos }) => {
       <div className="todoCollection" style={{ padding: "10px" }}>
         {todoList}
       </div>
-    );
+    ); 
 };
   
 export default Todos;
